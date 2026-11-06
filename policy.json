@@ -1,5 +1,5 @@
 {
   "min_instances": 0,
-  "max_instances": 8,
+  "max_instances": 2,
   "concurrency": 1
 }
